@@ -8,7 +8,7 @@
 
 #### Windows
 
-&nbsp;&nbsp;&nbsp;&nbsp;Загрузите файл [RUMR.zip](https://github.com/dotland/mnemonic-kb-ru/releases/latest/download/RUMR.zip), распакуйте его и запустите находящийся в нем файл&nbsp; **setup.exe** &nbsp;от имени администратора. Перезагрузите ОС-у после успешной установки, после чего вы сможете выбрать язык ввода&nbsp; «Russian Mnemonic» &nbsp;с помощью сочетания клавиш &nbsp;<img width="15"  src="https://user-images.githubusercontent.com/6199709/219590104-592ef021-14a5-4d46-a662-1948a59755b0.png" alt="клавиша Windows" title="клавиша Windows" />+`Пробел`. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Загрузите файл [RUMR.zip](https://github.com/dotland/mnemonic-kb-ru-wl/releases/latest/download/RUMR.zip), распакуйте его и запустите находящийся в нем файл&nbsp; **setup.exe** &nbsp;от имени администратора. Перезагрузите ОС-у после успешной установки, после чего вы сможете выбрать язык ввода&nbsp; «Russian Mnemonic» &nbsp;с помощью сочетания клавиш &nbsp;<img width="15"  src="https://user-images.githubusercontent.com/6199709/219590104-592ef021-14a5-4d46-a662-1948a59755b0.png" alt="клавиша Windows" title="клавиша Windows" />+`Пробел`. <br />
 
 #### Linux
 
